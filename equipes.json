@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "name": "Equipe 1",
+        "country": "Country 1"
+    },
+    {
+        "id": 2,
+        "name": "Equipe 2",
+        "country": "Country 2"
+    },
+    {
+        "id": 3,
+        "name": "Equipe 3",
+        "country": "Country 3"
+    },
+    {
+        "id": 4,
+        "name": "Equipe 4",
+        "country": "Country 4"
+    },
+    {
+        "id": 5,
+        "name": "Equipe 5",
+        "country": "Country 5"
+    }
+]
